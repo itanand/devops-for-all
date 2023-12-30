@@ -17,10 +17,7 @@ DevOps embodies a fusion of cultural philosophies, practices, and tools, enhanci
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
-![DevOps roadmap](DevOps%20Roadmap.png)
-
-Download [Version without background](DevOps%20Roadmap%20No%20Background.png).
 
 ## PDF version
 
-[![DevOps roadmap](pdfversion.png)](https://roadmap.sh/pdfs/roadmaps/devops.pdf)
+[![Download PDF for Full DevOps roadmap ]](https://roadmap.sh/pdfs/roadmaps/devops.pdf)
