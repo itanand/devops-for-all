@@ -9,7 +9,7 @@
 
 =======================================================================================================================
 
-### Greetings, World! Our commitment is to create the ultimate curated compilation of all DevOps resources in one location. Assist us in refining our content by correcting any errors and contributing additional valuable links. Your support is greatly appreciated! Thank you!
+> Greetings, World! Our commitment is to create the ultimate curated compilation of all DevOps resources in one location. Assist us in refining our content by correcting any errors and contributing additional valuable links. Your support is greatly appreciated! Thank you!
 
 DevOps embodies a fusion of cultural philosophies, practices, and tools, enhancing an organization's capacity to swiftly deliver applications and services. By advancing and refining products more rapidly than those employing conventional software development and infrastructure management processes, DevOps facilitates a heightened velocity. This accelerated pace empowers organizations to serve their customers more effectively, positioning them for enhanced competitiveness in the market.
 
