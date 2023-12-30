@@ -22,25 +22,25 @@ If you like or are using this project to learn or start your solution, please gi
 
 [![Download PDF for Full DevOps roadmap ]](https://roadmap.sh/pdfs/roadmaps/devops.pdf)
 
-### Best Learning resources for DevOps Engineers !
+## Best Learning resources for DevOps Engineers !
 
 DevOps embodies a fusion of cultural philosophies, practices, and tools, enhancing an organization's capacity to swiftly deliver applications and services. By advancing and refining products more rapidly than those employing conventional software development and infrastructure management processes, DevOps facilitates a heightened velocity. This accelerated pace empowers organizations to serve their customers more effectively, positioning them for enhanced competitiveness in the market.
 
 ## Contents
 
-# Basics of Git, Linux, Computer Networks and Cloud Platforms
+### Basics of Git, Linux, Computer Networks and Cloud Platforms
 
 - [Git and github](#cloud-platforms)
 - [Linux](#open-source-cloud-platforms)
 - [Computer Networking](#operating-systems)
 - [Cloud Platforms](#cloud-platforms)
 
-# DevOps Tools 
+### DevOps Tools 
 
 - [DevOps Tools](#distributed-filesystems)
 - [Applications Platforms](#applications-platforms)
 
-# Related  Contents 
+### Related  Contents 
 
 - [Open Source Cloud Platforms](#open-source-cloud-platforms)
 - [Operating Systems](#operating-systems)
