@@ -35,7 +35,7 @@ Virtualization allows better utilization of resources in a physical server and a
 
 Containers are similar to VMs, but they have relaxed isolation properties to share the Operating System (OS) among the applications. Therefore, containers are considered lightweight. Similar to a VM, a container has its own filesystem, share of CPU, memory, process space, and more. As they are decoupled from the underlying infrastructure, they are portable across clouds and OS distributions.
 
-## Kubernetes Components 
+## Main K8S Components 
 
 When you deploy Kubernetes, you get a cluster.
 
