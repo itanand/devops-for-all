@@ -18,13 +18,6 @@
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
 
-## PDF version
-
-[![Download PDF for Full DevOps roadmap ]](https://roadmap.sh/pdfs/roadmaps/devops.pdf)
-
-![devops_page-0001](https://github.com/itanand/devops-for-all/assets/38817976/412e75a4-ef87-4af1-aabc-c0a4a02473ab)
-
-
 ## Best Learning resources for DevOps Engineers !
 
 DevOps embodies a fusion of cultural philosophies, practices, and tools, enhancing an organization's capacity to swiftly deliver applications and services. By advancing and refining products more rapidly than those employing conventional software development and infrastructure management processes, DevOps facilitates a heightened velocity. This accelerated pace empowers organizations to serve their customers more effectively, positioning them for enhanced competitiveness in the market.
@@ -495,6 +488,10 @@ as an academic project from University of Tsukuba, under the Apache License 2.0.
 - [DevOps Enterprise Summit](https://events.itrevolution.com/)
 
 ### DevOps Roadmap
+
+[![Download PDF for Full DevOps roadmap ]](https://roadmap.sh/pdfs/roadmaps/devops.pdf)
+
+![devops_page-0001](https://github.com/itanand/devops-for-all/assets/38817976/412e75a4-ef87-4af1-aabc-c0a4a02473ab)
 
 Basic understanding and what you should know to become a *DevOps* Engineer, check the roadmap [here](https://roadmap.sh/devops).
 
