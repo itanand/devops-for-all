@@ -54,6 +54,7 @@ This document outlines the various components you need to have for a complete an
   <li> Ingress </li>
   <li>Config Map </li>
   <li>Deployment </li>
+  <li> Stateful Sets</li>
 </ol>
 
 ![image](https://github.com/itanand/devops-for-all/assets/38817976/9724a4b5-5eaa-4acd-aed2-1e30fd371054)
