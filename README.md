@@ -3,7 +3,7 @@
 ![DevOps](https://img.shields.io/badge/Build%20For-DevOps-blue.svg)
 
 
-... Because learning DevOps is for all
+... Because learning DevOps is free for all
 
 ![learning](https://cloud.githubusercontent.com/assets/8342133/12172223/a0db04b8-b575-11e5-9dfd-51fbf7c58de8.gif)
 
