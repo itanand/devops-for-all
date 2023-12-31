@@ -45,14 +45,16 @@ The worker node(s) host the Pods that are the components of the application work
 
 This document outlines the various components you need to have for a complete and working Kubernetes cluster.
 
-> Pod
-> Service
-> Volumes
-> Ingress
-> Secrets
-> StatefulSet
-> ConfigMap
-> Deployment
+<ol>
+  <li>Pod  </li>
+  <li>Service </li>
+  <li>Volumes  </li>
+  <li>Ingress </li>
+  <li>Secrets </li>
+  <li> Ingress </li>
+  <li>Config Map </li>
+  <li>Deployment </li>
+</ol>
 
 ![image](https://github.com/itanand/devops-for-all/assets/38817976/9724a4b5-5eaa-4acd-aed2-1e30fd371054)
 ![image](https://github.com/itanand/devops-for-all/assets/38817976/402d20c0-21cc-4f59-90b6-d8b1ea690287)
