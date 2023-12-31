@@ -5,7 +5,11 @@ Kubernetes is a portable, extensible, open source platform for managing containe
 - [What is Kubernetes ](#what-is-kubernetes-k8s-)
 - [Kubernetes Architecture ](#open-source-cloud-platforms)
 - [Main K8S Components](#main-k8s-components)
-- [Cloud Platforms](#cloud-platforms)
+- [Minikube and Kubectl](#cloud-platforms)
+- [Kubectl and Minicube Commands](#cloud-platforms)
+- [Minikube and Kubectl](#cloud-platforms)
+- [Minikube and Kubectl](#cloud-platforms)
+- [Minikube and Kubectl](#cloud-platforms)
 
 
 ![image](https://github.com/itanand/devops-for-all/assets/38817976/a2d162f9-3df3-455a-a49e-e75c931c37aa)
