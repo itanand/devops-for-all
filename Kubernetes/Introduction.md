@@ -4,7 +4,7 @@ Kubernetes is a portable, extensible, open source platform for managing containe
 
 - [What is Kubernetes ](#what-is-kubernetes-k8s-)
 - [Kubernetes Architecture ](#open-source-cloud-platforms)
-- [Main K8S Components](#operating-systems)
+- [Main K8S Components](#main-k8s-components)
 - [Cloud Platforms](#cloud-platforms)
 
 
@@ -39,6 +39,10 @@ Virtualization allows better utilization of resources in a physical server and a
 #### Container deployment era:
 
 Containers are similar to VMs, but they have relaxed isolation properties to share the Operating System (OS) among the applications. Therefore, containers are considered lightweight. Similar to a VM, a container has its own filesystem, share of CPU, memory, process space, and more. As they are decoupled from the underlying infrastructure, they are portable across clouds and OS distributions.
+
+## Kubernetes Architecture 
+
+
 
 ## Main K8S Components 
 
