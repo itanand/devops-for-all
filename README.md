@@ -1,6 +1,7 @@
 # devops-for-all
 [![Platforms](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![DevOps](https://img.shields.io/badge/Build%20For-DevOps-blue.svg)
+[![Hindi Tutorials](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10)(https://img.shields.io/badge/Build%20For-DevOps-blue.svg)
 
 
 ... Because learning DevOps is free for all
