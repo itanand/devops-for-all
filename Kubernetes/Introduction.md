@@ -2,9 +2,9 @@
 
 Kubernetes is a portable, extensible, open source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
-- [What is Kubernetes ](#what-is-kubernetes-k8s)
-- [Linux](#open-source-cloud-platforms)
-- [Computer Networking](#operating-systems)
+- [What is Kubernetes ](#what-is-kubernetes-k8s-)
+- [Kubernetes Architecture ](#open-source-cloud-platforms)
+- [Main K8S Components](#operating-systems)
 - [Cloud Platforms](#cloud-platforms)
 
 
