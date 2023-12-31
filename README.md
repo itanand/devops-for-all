@@ -22,7 +22,8 @@ If you like or are using this project to learn or start your solution, please gi
 
 [![Download PDF for Full DevOps roadmap ]](https://roadmap.sh/pdfs/roadmaps/devops.pdf)
 
-https://roadmap.sh/pdfs/roadmaps/devops.pdf
+![devops_page-0001](https://github.com/itanand/devops-for-all/assets/38817976/412e75a4-ef87-4af1-aabc-c0a4a02473ab)
+
 
 ## Best Learning resources for DevOps Engineers !
 
