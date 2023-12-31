@@ -489,11 +489,11 @@ as an academic project from University of Tsukuba, under the Apache License 2.0.
 
 ### DevOps Roadmap
 
+Basic understanding and what you should know to become a *DevOps* Engineer, check the roadmap [here](https://roadmap.sh/devops).
+
 [![Download PDF for Full DevOps roadmap ]](https://roadmap.sh/pdfs/roadmaps/devops.pdf)
 
 ![devops_page-0001](https://github.com/itanand/devops-for-all/assets/38817976/412e75a4-ef87-4af1-aabc-c0a4a02473ab)
-
-Basic understanding and what you should know to become a *DevOps* Engineer, check the roadmap [here](https://roadmap.sh/devops).
 
 ## Contributing
 
